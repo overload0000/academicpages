@@ -11,7 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Mathematics and Physics Tsinghua University 2020-2024
+  * First three year GPA: 3.96/4.0
+  <!-- * Major GPA: 4.0/4.0 -->
+  * Major Ranking: 1/60
+  
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
